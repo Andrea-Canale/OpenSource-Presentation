@@ -49,13 +49,13 @@ An open source project is a project where the work(code, documents, blueprints o
 The copyright always exists, if a piece of design is taken without reporting the original author it is an infringement.
 
 <div align="center">
-  <img src="assets/opensource.png" width="384" />
+  <img src="/images/opensource.png" width="384" />
   <p>Some open source application</p>
 </div>
 
 ---
 layout: image-right
-image: assets/ford.jpg
+image: /images/ford.jpg
 ---
 
 # History of open source
@@ -65,7 +65,7 @@ This is not the very definition of open source that was born with the internet, 
 
 ---
 layout: image-left
-image: assets/stallman.jpg
+image: /images/stallman.jpg
 ---
 
 
@@ -76,7 +76,7 @@ Between these, there is Richard Stallman, the creator of the most important free
 
 ---
 layout: image-right
-image: assets/linus.jpg
+image: /images/linus.jpg
 ---
 # The role of internet
 
@@ -173,7 +173,7 @@ For example, Linux is free but Red Hat sells modified versions of linux to compa
 Red Hat also create some tools that can be bought and used with Linux.
 Red Hat sponsor the Linux project so help the development process and pay developers to contribute to Linux project.
 
-<img src="assets/redhat.png" width="684"/>
+<img src="/images/redhat.png" width="684"/>
 
 ---
 
