@@ -55,7 +55,7 @@ The copyright always exists, if a piece of design is taken without reporting the
 
 ---
 layout: image-right
-image: /images/ford.jpg
+image: images/ford.jpg
 ---
 
 # History of open source
@@ -65,7 +65,7 @@ This is not the very definition of open source that was born with the internet, 
 
 ---
 layout: image-left
-image: /images/stallman.jpg
+image: images/stallman.jpg
 ---
 
 
@@ -76,7 +76,7 @@ Between these, there is Richard Stallman, the creator of the most important free
 
 ---
 layout: image-right
-image: /images/linus.jpg
+image: images/linus.jpg
 ---
 # The role of internet
 
