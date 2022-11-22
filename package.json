@@ -2,7 +2,7 @@
   "name": "wireless-comunication",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build && cp -r assets dist",
     "dev": "slidev --open",
     "export": "slidev export"
   },
